@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sozeyowea.cache51.com/sitemap.xml
